@@ -1,4 +1,4 @@
-# Stock Price Prediction (Short-Term)
+# Stock Price Prediction (Short-Term Forecasting    )
 
 Predicting the next day’s closing price using historical stock data from Yahoo Finance.
 
